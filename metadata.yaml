@@ -1,5 +1,8 @@
 _repo: Idylls-of-the-Skillet-Fork_72807
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72807-h/images/cover.jpg
 creator:
   author:
     agent_name: Wild, Payson Sibley
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '56814'
     url: http://www.gutenberg.org/2009/agents/56814
 description: Reprinted in part from the Chicago Tribune.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72807#Idylls-of-the-Skillet-Fork
 gutenberg_issued: '2024-01-29'
 gutenberg_type: Text
 identifiers:
